@@ -17,7 +17,10 @@ orig["icons"] = {
     "16": "images/icon16_sunset.png",
     "32": "images/icon32_sunset.png",
     "48": "images/icon48_sunset.png",
+    "96": "images/icon96_sunset.png",
     "128": "images/icon128_sunset.png",
+    "256": "images/icon256_sunset.png",
+    "512": "images/icon512_sunset.png",
 }
 
 if len(orig["description"]) > 132:
